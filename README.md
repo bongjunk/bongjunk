@@ -1,8 +1,11 @@
-### 프론트엔드 개발자 김봉준입니다 👋🏻
+<div align="center">
+  <h2>프론트엔드 개발자 김봉준입니다 👋🏻</h2>
+</div>
 
 <div align="center">
-  <h2>🛠 Tech Stacks</h2>
+  <h3>🛠 Tech Stacks</h3>
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
@@ -21,18 +24,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </div>
 
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bongjunk&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongjunk&layout=compact)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbongjunk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+-->
 
 <div align="center">
-
-## 📫 Contact
-  Email : bongjunk94@gmail.com
-  </br>
-  Portfolio : https://bongjundev-portfolio.vercel.app/
+  <h3>📫 Contact</h3>
+    Email : bongjunk94@gmail.com
+    </br>
+    Portfolio : https://bongjundev-portfolio.vercel.app/
 </div>
 
